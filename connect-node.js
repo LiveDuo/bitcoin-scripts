@@ -88,4 +88,3 @@ const nodeIpAddress = '-- ENTER NODE IP --'
 	})
 
 })()
-
